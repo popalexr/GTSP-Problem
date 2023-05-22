@@ -1,0 +1,3 @@
+D:/workspace/C++/University Project/cmake-build-debug/CMakeFiles/University_Project.dir
+D:/workspace/C++/University Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/workspace/C++/University Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
